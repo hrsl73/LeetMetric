@@ -26,14 +26,19 @@ LeetMetric is a tool designed to track and analyze coding progress on LeetCode. 
    npm start  # or python app.py (if using Flask/Django)
 
 
-Usage
+Usage:
+
 Sign in with your LeetCode account.
 Start tracking problems you solve.
 View detailed analytics on your coding progress.
 Compare with friends and strive for improvement!
 
-Contributing
+Contributing:
+
+
 Contributions are welcome! Feel free to fork the repo, create a new branch, and submit a pull request.
 
-License
+License:
+
+
 This project is licensed under the MIT License.
