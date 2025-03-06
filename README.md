@@ -17,12 +17,13 @@ LeetMetric is a tool designed to track and analyze coding progress on LeetCode. 
 
 2. Install Dependencies:
 
-npm install  # If using Node.js
-pip install -r requirements.txt  # If using Python
+   ```bash
+   npm install  # If using Node.js
+   pip install -r requirements.txt  # If using Python
 
 3. Run the application:
-
-npm start  # or python app.py (if using Flask/Django)
+   ```bash
+   npm start  # or python app.py (if using Flask/Django)
 
 
 Usage
